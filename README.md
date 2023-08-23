@@ -1,5 +1,7 @@
 # SystemGuardian
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)   
+**Author**: Tushar Santosh Patil   
+**Email**: tushar.patil.5202@gmail.com
 
 The name "SystemGuardian" conveys a sense of protection and vigilance over the system. SystemGuardian is a user-friendly system maintenance script that automates essential tasks to keep your Linux-based system up-to-date, optimized, and secure. It implies that the script serves as a guardian, ensuring the system's health and security through updates, cleanup, and other processes. 
 
